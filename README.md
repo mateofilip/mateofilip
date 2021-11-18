@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋🏻👨🏻‍💻 Hi! I'm Mateo
 
-<!--
-**mateofilip/mateofilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hello there! I'm Mateo](assets/BANNER.gif)
 
-Here are some ideas to get you started:
+<h2 align=center>💻 Software Developer</h2>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Im a software developer from Córdoba, Argentina, whose passions are both software development and learning whatever I can. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things.
+<br>
+
+### 🍂 **Languages & Tools**
+
+![HTML](assets/HTML5.svg)
+![CSS3](assets/CSS3.png)
+![JavaScript](assets/JAVASCRIPT.svg)
+![SASS](assets/SASS.svg)
+![React](assets/REACT.svg)
+![Redux](assets/REDUX.svg)
+![Node.js](assets/NODEJS.svg)
+![PostgreSQL](assets/POSTGRESQL.svg)
