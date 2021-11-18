@@ -1,8 +1,12 @@
-# 👋🏻👨🏻‍💻 Hi! I'm Mateo
+# ✌🏻 Hey! I'm Mateo Filip
 
 ![Hello there! I'm Mateo](assets/BANNER.gif)
 
-**Im a software developer from Córdoba, Argentina, whose passions are both software development and learning whatever I can. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things.**
+**Im a software developer from Córdoba, Argentina, whose passions are both software development and learning whatever I can, combined with good music and great books. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.**
+
+**If you want to know more about me, feel free to read below!**
+
+---
 
 ### 🍂 **Languages & Tools**
 
@@ -24,7 +28,7 @@
 
 ### 🍂 **Projects**
 
-#### **» Videogame App**
+### » Videogame App
 
 <p>
 <img alt='Landing Page' width=30% src='./assets/Projects/Landing Page.png'>
@@ -41,4 +45,4 @@
 
 <a href="https://www.linkedin.com/in/mateofilip"> <img alt=LinkedIn width=10% src='./assets/SVGs/LINKEDIN.svg'> &nbsp;
 <a href="mailto:mateofernandofilip@gmail.com"><img alt=Mail width=10% src='./assets/SVGs/MAIL.svg'> &nbsp;
-<a href="https://twitter.com/mateofilip_"><img alt=Mail width=9.33% src='./assets/SVGs/TWITTER.svg'>
+<a href="https://twitter.com/mateofilip_"><img alt=Mail width=10% src='./assets/SVGs/TWITTER.svg'>
