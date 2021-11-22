@@ -8,7 +8,7 @@
 
 ---
 
-### 🍂 **Languages & Tools**
+## 🍂 **Languages & Tools**
 
 <p>
 <img alt=HTML5 width=10% src='./assets/SVGs/HTML5.svg'>
@@ -26,9 +26,9 @@
 <img alt=Sequelize width=10% src='./assets/SVGs/SEQUELIZE.svg'>
 <p>
 
-### 🍂 **Projects**
+## 🍂 **Projects**
 
-### » Videogame App
+### **» Videogame App**
 
 <p>
 <img alt='Landing Page' width=30% src='./assets/Projects/Landing Page.png'>
@@ -41,7 +41,7 @@
 <img alt='Landing Page' width=30% src='./assets/Projects/Created Videogame.png'>
 </p>
 
-### 🍂 **Contact Me!**
+## 🍂 **Contact Me!**
 
 <a href="https://www.linkedin.com/in/mateofilip"> <img alt=LinkedIn width=10% src='./assets/SVGs/LINKEDIN.svg'> &nbsp;
 <a href="mailto:mateofernandofilip@gmail.com"><img alt=Mail width=10% src='./assets/SVGs/MAIL.svg'> &nbsp;
