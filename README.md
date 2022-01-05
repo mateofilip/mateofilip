@@ -26,21 +26,6 @@
 <img alt=Sequelize width=10% src='./assets/SVGs/SEQUELIZE.svg'>
 <p>
 
-## 🍂 **Projects**
-
-### **» Videogame App**
-
-<p>
-<img alt='Landing Page' width=30% src='./assets/Projects/Landing Page.png'>
-<img alt='Homepage' width=30% src='./assets/Projects/Homepage.png'>
-<img alt='Searched Videogames' width=30% src='./assets/Projects/Searched Videogames.png'>
-</p>
-<p>
-<img alt='Landing Page' width=30% src='./assets/Projects/Videogame Detail.png'>
-<img alt='Landing Page' width=30% src='./assets/Projects/Videogame Creation Form.png'>
-<img alt='Landing Page' width=30% src='./assets/Projects/Created Videogame.png'>
-</p>
-
 ## 🍂 **Contact Me!**
 
 <a href="https://www.linkedin.com/in/mateofilip"> <img alt=LinkedIn width=10% src='./assets/SVGs/LINKEDIN.svg'> &nbsp;
